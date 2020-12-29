@@ -1,0 +1,102 @@
+{
+  "memes": {
+    "bruh": {
+      "fileName": "bruh.png"
+    },
+    "cry": {
+      "fileName": "cry.png"
+    },
+    "disapprove": {
+      "fileName": "disapprove.png"
+    },
+    "disgusting": {
+      "fileName": "disgusting.jpg"
+    },
+    "sleep": {
+      "fileName": "sleep.png"
+    },
+    "stare": {
+      "fileName": "stare.jpg"
+    },
+    "ohyea": {
+      "fileName": "ohyea.jpg"
+    },
+    "haah": {
+      "fileName": "haah.png"
+    },
+    "wat": {
+      "fileName": "wat.png"
+    },
+    "weeb": {
+      "fileName": "weeb.png"
+    },
+    "heh": {
+      "fileName": "heh.jpg"
+    },
+    "huh": {
+      "fileName": "huh.jpg"
+    },
+    "confused": {
+      "fileName": "confused.JPG"
+    },
+    "pig": {
+      "fileName": "pig.JPG"
+    },
+    "asianglow": {
+      "fileName": "asianglow.jpg"
+    },
+    "old": {
+      "fileName": "old.jpg"
+    },
+    "elsa": {
+      "fileName": "elsa.jpg"
+    },
+    "bliss": {
+      "fileName": "bliss.jpg"
+    },
+    "wah": {
+      "fileName": "wah.jpg"
+    },
+    "hot": {
+      "fileName": "hot.jpg"
+    },
+    "pelican": {
+      "fileName": "pelican.png"
+    },
+    "grape": {
+      "fileName": "grape.jpg"
+    },
+    "jafar": {
+      "fileName": "jafar.png"
+    },
+    "hotstuff": {
+      "fileName": "hotstuff.png"
+    },
+    "peanuts": {
+      "fileName": "peanuts.jpg"
+    },
+    "twins": {
+      "fileName": "twins.jpg"
+    }
+  },
+  "music": {
+    "play": {
+      "description": "Plays the song that you want via youtube. If you include a url, the bot will play the video specified by the url.\n                  If you include a song name, the bot will list the 5 top search options for that song which you can then pick from."
+    },
+    "stop": {
+      "description": "Stops the music and removes the bot from the voice channel."
+    },
+    "skip": {
+      "description": "Skips the current song."
+    },
+    "pause": {
+      "description": "Pauses the good vibes."
+    },
+    "resume": {
+      "description": "Returns the good vibes to the people."
+    }
+  },
+  "note": {
+    "description": "Allows the user to add a journal entry with the specified note."
+  }
+}
