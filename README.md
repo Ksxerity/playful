@@ -2,11 +2,11 @@
 
 **This server has been discontinued due to various reasons.**
 
-The playful discord bot is a customized bot that was used in my private discord channel with my friends. Playful was configured to mimic basic functions from other bots we used (like listening to music) and provide additional functionality that catered to the type of activities we enjoyed.
+The playful discord bot is a customized bot used in my private discord channel with my friends. Playful was configured to mimic basic functions from other bots we used (like listening to music) and provide additional functionality that catered to the type of activities we enjoyed.
 
 The bot is able to:
 - Play music via youtube links.
-  - It accepted video links as well as playlist links.
+  - It accepts video links as well as playlist links.
 - Associate images uploaded by users with a specific command so that they can be easily brought up in reaction to situations.
 - Make note entries to easily document amusing moments.
 
